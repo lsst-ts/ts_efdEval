@@ -9,3 +9,4 @@
 ## 2. Bin Content
 
 - **buildCscTestScripts.sh**: Build the test scripts of commandable SAL component (CSC).
+- **generateInfluxDbWriter.sh**: Generate the InfluxDB writer.
