@@ -12,3 +12,5 @@
 - **generateInfluxDbWriter.sh**: Generate the InfluxDB writer.
 - **issueInfluxDbWriter.sh**: Issue all InfluxDB writers with each related CSC log files.
 - **killInfluxDbWriter.sh**: Kill all InfluxDB writers.
+- **issueAllTelemetryPub.sh**: Issue all CSC telemetry publishers.
+- **killAllTelemetryPub.sh**: Kill all CSC telemetry publishers.
