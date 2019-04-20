@@ -10,3 +10,5 @@
 
 - **buildCscTestScripts.sh**: Build the test scripts of commandable SAL component (CSC).
 - **generateInfluxDbWriter.sh**: Generate the InfluxDB writer.
+- **issueInfluxDbWriter.sh**: Issue all InfluxDB writers with each related CSC log files.
+- **killInfluxDbWriter.sh**: Kill all InfluxDB writers.
